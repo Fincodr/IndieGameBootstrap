@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://indiegamebootstrap.com/sitemap.xml
+Disallow: /ghost/
